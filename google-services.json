@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "209018232214",
+    "firebase_url": "https://app-5265-default-rtdb.firebaseio.com",
+    "project_id": "app-5265",
+    "storage_bucket": "app-5265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209018232214:android:c1af1cb00520c1913251b7",
+        "android_client_info": {
+          "package_name": "com.norbory.basketgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXxEAWJrUt1S8PQdFBvqVSCnLOZuPyGio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
